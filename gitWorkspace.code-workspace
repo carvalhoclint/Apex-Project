@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "Test Project"
+		}
+	],
+	"settings": {
+		"eslint.nodePath": "/Users/ees/.vscode/extensions/salesforce.salesforcedx-vscode-lwc-46.2.0/node_modules"
+	}
+}

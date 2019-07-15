@@ -1,0 +1,8 @@
+<apex:page controller="NewCaseListController">
+    <apex:form>
+        <apex:pageBlock title="Case List" id="case_list">
+            
+            <!-- Case List goes here -->
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

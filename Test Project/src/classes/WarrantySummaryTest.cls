@@ -8,6 +8,7 @@ private class WarrantySummaryTest {
         myCase.CreatedDate                      = Date.today();
         myCase.Product_Total_Warranty_Days__c   = 15;
         myCase.Product_Has_Extended_Warranty__c = true;
+        myCase.Origin                           = 'Phone';
         insert myCase;
 
         //myLead.Company = 'Puralsight';
